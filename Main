@@ -1,5 +1,5 @@
 if getgenv().Language == "English" then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ToTaiVn/AckermanXSimple/main/toshunranksss.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToTaiVn/OtherScripts/main/Protected_3341963040386882.lua.txt"))()
 elseif getgenv().Language == "Vietnamese" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ToTaiVn/AckermanXSimple/main/toshunvietnamlaso1.lua"))()
 else
