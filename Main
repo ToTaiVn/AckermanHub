@@ -1,2 +1,2 @@
 repeat wait() until game:IsLoaded() 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ToTaiVn/OtherScripts/main/Protected_6390563393997904.lua.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ToTaiVn/OtherScripts/main/devbytoshunxtokito.lua'))()
