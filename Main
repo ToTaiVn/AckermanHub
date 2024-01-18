@@ -1,2 +1,9 @@
 repeat wait() until game:IsLoaded() 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ToTaiVn/OtherScripts/main/devbytoshunxtokito.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ToTaiVn/OtherScripts/main/Protected_1628956249745698.lua.txt'))()
+--[[
+[+]Update Log:
+Eng:
+Fixed slow attack cannot attack to monsters
+Vie:
+Đã Fix Slow Attack (Attack Chậm Nhưng Vẫn Nhanh) không thể đánh quái
+--]]
