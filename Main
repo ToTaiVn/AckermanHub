@@ -1,2 +1,2 @@
-repeat wait() until game:IsLoaded() 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ToTaiVn/Source-Obf/main/Protected_4901725522325325.lua.txt'))()
+game.Players.LocalPlayer:Kick("We are making v2 script please check my discord for new script check your clipboard")
+setclipboard('https://discord.gg/AEjrTcuE')
