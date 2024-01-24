@@ -1,2 +1,2 @@
-game.Players.LocalPlayer:Kick("We are making v2 script please check my discord for new script check your clipboard")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToTaiVn/Source-Obf/main/BloxFruitVer2.lua"))()
 setclipboard('https://discord.gg/AEjrTcuE')
