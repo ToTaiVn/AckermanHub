@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ToTaiVn/Source-Obf/main/BloxFruitVer2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToTaiVn/Source-Obf/main/Protected_6491460135475736.lua.txt"))()
 setclipboard('https://discord.gg/AEjrTcuE')
